@@ -1,0 +1,69 @@
+{
+    "products": [
+        {
+            "search_image": "https://laptop88.vn/media/product/pro_poster_7171.jpg",
+            "styleid": 10714242,
+            "brands_filter_facet": " Laptop Lenovo Thinkbook 14P G3",
+            "price": 15990000,
+            "product_additional_info": "Men DOWNSHIFTER Running Shoes"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/11045648/2020/2/26/eeb8b7bb-1070-4b1a-85c1-63111ccb89f71582709158524-Nike-Unisex-Grey-SB-PORTMORE-II-SOLAR-Leather-Skateboarding--1.jpg",
+            "styleid": 11045648,
+            "brands_filter_facet": "Nike",
+            "price": 4721,
+            "product_additional_info": "Unisex PORTMORE Skateboarding"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/11077538/2019/12/17/be4cefb8-5935-4068-ac4a-88d0ddb9b20e1576568157619-AS-NIKE-CLUB-OH-PANT-SWOOSH-NF-9021576568155974-1.jpg",
+            "styleid": 11077538,
+            "brands_filter_facet": "Nike",
+            "price": 2076,
+            "product_additional_info": "Men CLUB SWOOSH Trackpants"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/7487547/2018/10/26/34ac3cfc-1720-4fc3-8879-1ea6347266501540538213382-Nike-Men-Sports-Shoes-1591540538213274-1.jpg",
+            "styleid": 7487547,
+            "brands_filter_facet": "Nike",
+            "price": 3918,
+            "product_additional_info": "Men Running Shoes"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/9798093/2019/8/22/fdcd98a5-f017-453e-abbc-5c098f01d2a51566460641139-Nike-Men-White-POTENTIAL-3-Cricket-Shoes-8981566460640011-1.jpg",
+            "styleid": 9798093,
+            "brands_filter_facet": "Nike",
+            "price": 3371,
+            "product_additional_info": "Men POTENTIAL 3 Cricket Shoes"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/11045486/2020/1/23/28b89811-2ec1-444f-8335-bd8125189fa01579765097039-Nike-Women-Sports-Shoes-5001579765095319-1.jpg",
+            "styleid": 11045486,
+            "brands_filter_facet": "Nike",
+            "price": 4496,
+            "product_additional_info": "Women RENEW RIDE Running Shoes"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/7616580/2018/10/29/2c517e3e-cb28-4abc-b7b0-652e841ec7ff1540796262831-AS-M-NK-THRMA-PANT-TAPER-7491540796262718-1.jpg",
+            "styleid": 7616580,
+            "brands_filter_facet": "Nike",
+            "price": 2366,
+            "product_additional_info": "Men THRMA PANT TAPER Training"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/4030191/2018/4/11/11523428568605-Mens-Nike-Flex-Control-II-Training-Shoe-9901523428568458-1.jpg",
+            "styleid": 4030191,
+            "brands_filter_facet": "Nike",
+            "price": 4436,
+            "product_additional_info": "Men Flex Control II Training"
+        },
+        {
+            "search_image": "http://assets.myntassets.com/assets/images/11045560/2020/1/23/c7fc6185-f028-4945-91f2-962685174d551579762568013-Nike-Men-Sports-Shoes-8421579762566885-1.jpg",
+            "styleid": 11045560,
+            "brands_filter_facet": "Nike",
+            "price": 5246,
+            "product_additional_info": "Men RENEW RUN Shoes"
+        }
+
+    ],
+    "count": 2276
+}
